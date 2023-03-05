@@ -42,12 +42,12 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantshekhar82&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantsekhar82"/>
 </span>
 <span>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantshekhar82&show_icons=true&locale=en&layout=compact&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"	alt="sushantshekhar82"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantshekhar82&show_icons=true&locale=en&layout=compact&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"	alt="sushantshekhar82"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82"/>
-	</span>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82"/>
-
-<img src="https://streak-stats.demolab.com/?user=sushantshekhar82&theme=react&background=white" alt="sushanthshekhar82" />
+</span>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantshekhar82&theme=nord_dark" width="100%" alt="sushantshekhar82"/>
+<!-- 
+<img src="https://streak-stats.demolab.com/?user=sushantshekhar82&theme=react&background=white" alt="sushanthshekhar82" /> -->
 	
 	
 
