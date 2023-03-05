@@ -39,16 +39,19 @@
 <div align="center">
 <div style="display: flex;">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushantshekhar82&show_icons=true" alt="sushantshekhar82" width="400px" />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantshekhar82&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantshekhar82" width="400px"  />
-	</div>
-	</div>
-	<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantshekhar82&show_icons=true&locale=en&layout=compact&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantshekhar82" />
-	<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82" />
-	<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82" />
-	<img  src="https://streak-stats.demolab.com/?user=sushantshekhar82&theme=react&background=2e3440" alt="sushantshekhar82" />
 	<img  src="https://github-stats-alpha.vercel.app/api?username=sushantshekhar82&cc=2e3440&tc=fff&ic=fff&bc=gray" alt="sushantshekhar82" />
 	
+	
+
+	</div>
+	</div>
+	<center> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantshekhar82&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantshekhar82" width="400px"  />
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82" /></center>
+	<div align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantshekhar82&show_icons=true&locale=en&layout=compact&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantshekhar82" />
+	
+	<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82" />
+	<img  src="https://streak-stats.demolab.com/?user=sushantshekhar82&theme=react&background=2e3440" alt="sushantshekhar82" />
 	
 
 
