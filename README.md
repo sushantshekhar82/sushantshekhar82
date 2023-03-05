@@ -43,7 +43,7 @@
 	
 	
 
-	 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushantshekhar82&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantshekhar82" width="400px"  />
+	 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sushantshekhar82&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantshekhar82" width="400px"  />
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82" />
 	
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantshekhar82&show_icons=true&locale=en&layout=compact&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sushantshekhar82" />
