@@ -47,7 +47,7 @@
 	</span>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantshekhar82&theme=nord_dark" alt="sushantshekhar82"/>
 
-<img src="https://streak-stats.demolab.com/?user=sushantshekhar82&theme=react&background=2e3440" alt="sushanthshekhar82" />
+<img src="https://streak-stats.demolab.com/?user=sushantshekhar82&theme=react&background=white" alt="sushanthshekhar82" />
 	
 	
 
