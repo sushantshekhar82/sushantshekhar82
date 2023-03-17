@@ -44,7 +44,7 @@
 </span>
 <span width="100%" style=" display: flex;
   justify-content: center;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantshekhar82&show_icons=true&locale=en&layout=compact&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="350px" height="180px"	alt="sushantshekhar82"/>
+<img  src="https://github-stats-alpha.vercel.app/api?username=sushantshekhar82&cc=2e3440&tc=fff&ic=fff&bc=gray" alt="sushantshekhar82" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sushantshekhar82&theme=nord_dark"  alt="sushantshekhar82"/>
 </span>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sushantshekhar82&theme=nord_dark" width="100%" alt="sushantshekhar82"/>
